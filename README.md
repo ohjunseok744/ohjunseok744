@@ -32,12 +32,10 @@
 
 ## 📫 연락처
 
-- 이메일: your_email@example.com
-- 깃허브: [github.com/your_github_username](https://github.com/your_github_username)
-- 링크드인: [linkedin.com/in/your_linkedin_username](https://www.linkedin.com/in/your_linkedin_username)
+- 이메일: ojspp000
+- 깃허브: [github.com/your_github_username](https://github.com/ojspp41)
 
 ## 🌐 블로그
 
-- [your_blog_url](https://your_blog_url)
 
 감사합니다!
