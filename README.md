@@ -28,14 +28,14 @@
 
 ## 📈 백준 티어
 
-[![Baekjoon tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=your_baekjoon_id)](https://solved.ac/ojspp41)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wke1wke1)](https://solved.ac/ojspp41)
 
 ## 📫 연락처
 
-- 이메일: ojspp000
-- 깃허브: [github.com/your_github_username](https://github.com/ojspp41)
+- 이메일: ojspp000@naver.com , ojsppppppp41@gmail.com
 
 ## 🌐 블로그
-
+준비중 
 
 감사합니다!
