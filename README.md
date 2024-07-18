@@ -20,7 +20,7 @@
 ### 공부 중인 기술
 
 - **타입스크립트**: 
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white width="100")
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" width="100" />
 - **Next.js**: 
   ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white width="100")
 - **Node.js**: 
