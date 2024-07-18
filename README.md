@@ -29,7 +29,7 @@
 ## 📈 백준 티어
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wke1wke1)](https://solved.ac/ojspp41)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ojspp41)](https://solved.ac/ojspp41)
 
 ## 📫 연락처
 
